@@ -12,7 +12,7 @@
 | **[StyleGAN Face Generator](link)** | Face generation with StyleGAN architecture | PyTorch |
 | **[X-ray Report Generator](link)** | Multi-modal AI for medical report generation | Python, PyTorch, Transformers |
 | **[Real-time Neural Style Transfer](link)** | Style transfer with ONNX optimization | PyTorch, TypeScript, ONNX |
-| **[YOLOv8 Instance Segmentation](link)** | Real-time fruit detection and segmentation | TypeScript, Yolov8 |
+| **[YOLOv8 Instance Segmentation](link)** | Real-time fruit detection and segmentation | TypeScript, Yolov8, Roboflow |
 
 
 👉 Check out more in my repositories below ⬇️  
