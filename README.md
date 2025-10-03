@@ -15,7 +15,7 @@
 | **[YOLOv8 Instance Segmentation](link)** | Real-time fruit detection and segmentation | TypeScript, Yolov8 |
 
 
-👉 Check out more in my pinned repositories below ⬇️  
+👉 Check out more in my repositories below ⬇️  
 
 ---
 
