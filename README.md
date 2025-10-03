@@ -8,10 +8,13 @@ informatique des données et décisionnel - Sorbonne Paris Nord**
 ---
 
 ### 🔭 What I do
-- I build and train deep learning models with **PyTorch** — my favorite ecosystem for research and production.  
-- I love going beyond training: experimenting with **TorchScript, TorchServe, ONNX** to bring models into production.  
-- Currently working on **optimizing StyleGAN** for **face generation**.
+- My **strength and joy** is building and training deep learning models with **PyTorch**.  
+- I love pushing models beyond training: experimenting with **TorchScript, TorchServe, ONNX** to bring them into production.  
+- Currently working on **optimizing StyleGAN** for **face generation**.  
 
+But I don’t stop there 👇  
+- I can integrate **LLMs / VLMs into APIs** and design **end-to-end AI systems**.  
+- Experienced with a wide range of ML problems: **classification, regression, computer vision, NLP, and generative AI**.  
   
 ### 🛠️ Tech Stack 
 
