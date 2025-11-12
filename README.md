@@ -27,7 +27,7 @@ Master's Student in Web Intelligence & Data Science @ FSDM x Sorbonne Paris Nord
 ---
 
 ### Connect
-- **Email**: hajar.hamdouch02@gmail.com
+- **Email**: hajar.hamdouch03@gmail.com
 
 ---
 
